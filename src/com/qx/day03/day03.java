@@ -34,7 +34,7 @@ public class day03 {
             System.out.println("执行else");
         }
 
-        // TODO: 2019-12-25   留一个运算
+        // TODO:   留一个运算
 
         System.out.println("9>3 ? :" + (9 > 3 ? true : false));
 

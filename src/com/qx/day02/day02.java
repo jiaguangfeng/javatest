@@ -21,7 +21,7 @@ public class day02 {
         //自减
         System.out.println(a--);
 
-        // TODO: 2019-12-25    了解 a++  和 ++ a    a--   和--a
+        // TODO:      了解 a++  和 ++ a    a--   和--a
 
     }
 }
