@@ -23,5 +23,12 @@ public class day02 {
 
         // TODO:      了解 a++  和 ++ a    a--   和--a
 
+
+        int c = 1;
+        System.out.println("c=" + c++);
+        int d;
+        d = c++;
+        System.out.println("d=" + d);
+
     }
 }
