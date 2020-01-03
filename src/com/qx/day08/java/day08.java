@@ -53,11 +53,13 @@ public class day08 {
          *
          */
 
+        System.out.println("-------------------------------");
 
         Phone phone = new Phone();    //这里 就是 初始化一个对象  你要使用 必须先new 一个出来
         phone.call("胖子");
         // phone.sendMessage("胖子");  这个方法压根找不到
 
+        System.out.println("-------------------------------");
 
         Xiaomi xiaomi = new Xiaomi();
         xiaomi.call("大熊");

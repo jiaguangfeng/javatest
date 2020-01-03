@@ -24,6 +24,17 @@ fun main(args: Array<String>) {
     goHome("大熊")
     goHome("净香")
     goHome("小夫")
+
+
+    val phone: Phone = Phone()
+
+    phone.call("胖子")
+
+
+    val xiaomi:Xiaomi = Xiaomi()
+    xiaomi.call("大熊")
+    xiaomi.sendMessage("大熊")
+
 }
 
 
