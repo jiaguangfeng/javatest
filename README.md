@@ -30,7 +30,7 @@ java kotlin
            2.   数据类型 [] 数组名称 = {内容1 ，内容2 。。。。。};
 
 
-  ![](/Users/jiaguangfeng/Downloads/20180612094225630.jpeg)整个集合的结构
+  ![](../javatest/20180612094225630.jpeg)整个集合的结构
   
   - list是有序的  可以重复 
   - set是无序的  唯一
@@ -59,3 +59,7 @@ java kotlin
 # day10 、
   - final 的使用
   - 内部类的使用 
+  
+# day11、
+  - object类  
+    
