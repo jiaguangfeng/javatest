@@ -24,6 +24,7 @@ public class day01 {
         System.out.println(mark);
         System.out.println(flag);
         System.out.println(a);
+        //随便写点 测试下提交
     }
 
 
