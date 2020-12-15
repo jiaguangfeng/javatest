@@ -3,3 +3,6 @@
 .idea/modules.xml
 .idea/libraries/lib.xml
 .idea/libraries/lib2.xml
+*.class
+out/
+.idea/
